@@ -4,7 +4,7 @@ This repository contains the artifact for the CS 7457 Advanced Networks Fall '24
 
 # Notes
 
-The artifact is provided in a google drive link in a VM. From here onwards, all experiments will be run in the VM to ease running the experiments. Download the zip file and unzip it. You should get a zip file called dist-unit-test-p4.zip and will it unzip to a "Open Virtualization Format Archive" file type.
+The artifact is provided in a [google drive link](https://drive.google.com/file/d/12VTOjS7Fdpz4fKeWhoABzrZEVqou6Xz3/view?usp=sharing) in a VM. From here onwards, all experiments will be run in the VM to ease running the experiments. Download the zip file and unzip it. You should get a zip file called dist-unit-test-p4.zip and will it unzip to a "Open Virtualization Format Archive" file type.
 
 # Starting the VM
 
