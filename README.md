@@ -15,7 +15,7 @@ Run the VM using virtualbox. When you reached the home screen, choose the P4 pro
 In the /home/p4 folder, here are the folders you need to pay attention to
 
 1. hadoop: this is the Hadoop software system, cloned and already built from [https://github.com/apache/hadoop](https://github.com/apache/hadoop). This folder contains the software system and the unit tests we will run on the hadoop-hdfs project. We don't include it in the github repo because it is a huge repository.
-2. tutorials: this is from the [https://github.com/p4lang/tutorials](https://github.com/p4lang/tutorials) repository. All experiments will be run in this folder since this repository gives a general extensible guideline on creating new modules with P4. In this repo, we attach the 3 experiments in each folder and the utils. 
+2. tutorials: this is from the [https://github.com/p4lang/tutorials](https://github.com/p4lang/tutorials) repository. All experiments will be run in this folder since this repository gives a general extensible guideline on creating new modules with P4. In this repo, we attach the 3 experiments in each folder and the utils. This repository stores the essential scripts required.
 
 # Experiments
 
