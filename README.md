@@ -4,7 +4,7 @@ This repository contains the artifact for the CS 7457 Advanced Networks Fall '24
 
 # Notes
 
-The artifact is provided in a [google drive link](https://drive.google.com/file/d/12VTOjS7Fdpz4fKeWhoABzrZEVqou6Xz3/view?usp=sharing) in a VM. From here onwards, all experiments will be run in the VM to ease running the experiments. Download the zip file and unzip it. You should get a zip file called dist-unit-test-p4.zip and will it unzip to a "Open Virtualization Format Archive" file type.
+The artifact is provided in a [google drive link](https://drive.google.com/file/d/12VTOjS7Fdpz4fKeWhoABzrZEVqou6Xz3/view?usp=sharing) in a VM. From here onwards, all experiments will be run in the VM to ease running the experiments. Download the zip file and unzip it. You should get a zip file called dist-unit-test-p4.zip and it will unzip to a "Open Virtualization Format Archive" file type.
 
 # Starting the VM
 
@@ -26,7 +26,7 @@ time python3 single_device_unit_test.py
 ```
 ## Distributed unit test
 ```
-cd /home/p4/tutorials/exercises
+cd /home/p4/tutorials/exercises/simple_unit_test_state
 make run
 # Inside the mininet CLI
 xterm h1 h2 h3 h4 h5
@@ -38,7 +38,7 @@ time python3 unit_test_process.py
 ```
 ## P4 Distributed unit test
 ```
-cd /home/p4/tutorials/exercises
+cd /home/p4/tutorials/exercises/simple_unit_test_state_end_host
 make run
 # In the mininet CLI
 xterm h1 h2 h3 h4
